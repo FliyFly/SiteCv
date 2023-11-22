@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* #header {
+    background-size: cover;
+    background-position: center;
+    transition: background-size 1s, transform 1s;
+    height: 100vh;
+    position: relative;
+    overflow: auto;
+    z-index: 20;
+}
+
+#header.zoomed {
+    background-size: 101%;
+    transform: scale(1.03);
+} */
